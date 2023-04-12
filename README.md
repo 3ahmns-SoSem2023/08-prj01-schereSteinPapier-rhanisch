@@ -1,2 +1,2 @@
-# Schere.Stein.Papier-r.hanisch
+# 08-prj01-schereSteinPapier-rhanisch
 Spiel in Unity
